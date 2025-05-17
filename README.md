@@ -2,7 +2,7 @@
 
 ## Introduction
 
-`Indent Writer` is a lightweight and concise implementation of an indented string builder using string interpolation. The main advantage of this approach is that it avoids the need for a lot of boilerplate code, such as `AddIndent()`, `RemoveIndent()`, `Appendix()`, and `using var block = typicalIndentBuilderImplementation.CreateBlock(); { ... }`.
+`Indent Writer` is a lightweight and concise implementation of an indented string builder using string interpolation. The main advantage of this approach is that it avoids the need for a lot of boilerplate code, such as `AddIndent()`, `RemoveIndent()`, `Append()`, and `using var block = typicalIndentBuilderImplementation.CreateBlock(); { ... }`.
 
 ## Features
 
